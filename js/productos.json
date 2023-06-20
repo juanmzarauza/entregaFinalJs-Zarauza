@@ -1,0 +1,74 @@
+[   
+     {
+        "id": 1,
+        "nombre": "bondiola",
+        "precio": 3500,
+        "descripción": "La bondiola o bondiolita es un producto de charcutería (similar a la coppa o capicola italiana, o capocollo en italiano) originario​ de la región de Emilia-Romaña y difundido por la inmigración italiana en países de América del Sur como Argentina, Paraguay y Uruguay.",
+        "stock": 20,
+        "urlImg":"https://i.ibb.co/YNmM1WZ/some-delicious-pork-bondiola-fetas-260nw-2101389478.webp" 
+    },
+    {
+        "id": 2,
+        "nombre": "panceta",
+        "precio": 2500,
+        "descripción":"La panceta, también conocida como «tocino» o «tocineta», es un producto cárnico que comprende la piel y las capas que se encuentran bajo la piel del cerdo, específicamente de los músculos ventrales. Está compuesta de la piel y tocino entreverado de carne magra.",
+        "stock": 0,
+        "urlImg": "https://i.ibb.co/rZkxPj9/smoked-bacon-tasty-sliced-pork-260nw-2255709351.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "panceta ahumada",
+        "precio": 3000,
+        "descripción":"La panceta ahumada es conocida popularmente como bacon y suele utilizarse mucho como aperitivo frito o para acompañar unos huevos u otros platos de cocina rápida. En la cocina, la panceta suele emplearse preferentemente para el relleno de carnes. Da un resultado más jugoso.",
+        "stock": 30,
+        "urlImg": "https://i.ibb.co/rZkxPj9/smoked-bacon-tasty-sliced-pork-260nw-2255709351.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "bresaloa",
+        "precio": 4500,
+        "descripción":"La bresaola es un fiambre consistente en finas lonchas de carne de ternera curada durante dos o tres meses, desde su etapa cruda, en la que es oscura, hasta que toma un color púrpura. Tiene su origen en el valle de Valtellina al norte de Italia, en la región de Lombardía, en las comarcas cercanas de los Alpes.",
+        "stock": 8,
+        "urlImg":"https://i.ibb.co/HrP4rNW/half-smoked-bresaola-cut-pieces-260nw-1383904331.webp" 
+    },
+    {
+        "id": 5,
+        "nombre": "jamon cocido",
+        "precio": 2000,
+        "descripción": "El jamón cocido, también conocido como jamón dulce o jamón de York, es un fiambre derivado de la carne de cerdo que se obtiene de los miembros posteriores de este animal, sometidos a la cocción en agua salada, con o sin condimentos.",
+        "stock": 25,
+        "urlImg":"https://i.ibb.co/Y0H2GSB/jamon-cocido-natural.jpg" 
+    },
+    {
+        "id": 6,
+        "nombre": "jamon crudo",
+        "precio": 3000,
+        "descripción": "Prosciutto es el término italiano para referirse al jamón, sobre todo al curado, que se sirve sin cocinar y cortado en lonchas finas. Esta manera de consumirlo se llama en Italia prosciutto crudo, a diferencia del cocinado.",
+        "stock": 16,
+        "urlImg":"https://i.ibb.co/Hx1Fmc0/Jamon-crudo-Tipo-Italiano.jpg" 
+    },
+    {
+        "id": 7,
+        "nombre": "salamin",
+        "precio": 1000,
+        "descripción": "El salami o salame es un embutido que se elabora con una mezcla de carnes de vacuno y porcino sazonadas y que es posteriormente ahumado y curado al aire, similar al salchichón. Casi todas las variedades italianas se condimentan con ajo, no así las alemanas.",
+        "stock": 45,
+        "urlImg":"https://i.ibb.co/rpvhGDN/salame-caroyense1-83f0cca514b448664a15958717223383-640-0.jpg" 
+    },
+    {
+        "id": 8,
+        "nombre": "peperoni",
+        "precio": 1000,
+        "descripción": "El pepperoni o peperoni​ es una variedad de salami con pimiento de la cocina estadounidense.​ El pepperoni es característicamente suave, ligeramente ahumado y de color rojo brillante.​ El pepperoni en rodajas finas es un ingrediente popular en las pizzas de los Estados Unidos.​",
+        "stock": 55,
+        "urlImg":"https://i.ibb.co/ZzGDpDn/salame-pepperone-sliced-1kg.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "pastrami",
+        "precio": 5000,
+        "descripción": "El pastrami es un producto elaborado con carne roja sometido a proceso de salazón en salmuera. El proceso de elaboración del pastrami es el siguiente: se desangra, se pone la carne en salmuera, se seca, se le añaden algunos condimentos, tales como ajo, pimienta negra, mejorana, albahaca; se ahúma y se cuece al vapor.​ ",
+        "stock": 55,
+        "urlImg":"https://i.ibb.co/p0mdRmb/images-q-tbn-ANd9-Gc-Rq-Id5v-QLWd7q-ASJoubg-Yia0m-LT6z8pr-B9g-LA-usqp-CAU.jpg" 
+    }
+]
